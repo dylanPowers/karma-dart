@@ -60,7 +60,6 @@ Then just open http://localhost:9876/ in [Dartium].
 ## Known Limitations/Issues
 
 * Missing Dartium launcher.
-* Each test file must be a library -- due to the nature of the test runner, this is required.
 
 [homepage]: https://github.com/karma-runner
 [unittest]: http://api.dartlang.org/docs/releases/latest/unittest.html
